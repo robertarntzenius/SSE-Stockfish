@@ -1,0 +1,4290 @@
+Version 1, round 1
+
+# started on Sun Feb 27 22:50:05 2022
+
+
+ Performance counter stats for 'system wide':
+
+            177,10 Joules power/energy-cores/                                         
+
+      16,528595867 seconds time elapsed
+
+Version 2, round 1
+
+# started on Sun Feb 27 22:50:32 2022
+
+
+ Performance counter stats for 'system wide':
+
+            217,15 Joules power/energy-cores/                                         
+
+      19,992485685 seconds time elapsed
+
+Version 4, round 1
+
+# started on Sun Feb 27 22:51:12 2022
+
+
+ Performance counter stats for 'system wide':
+
+            207,09 Joules power/energy-cores/                                         
+
+      19,106145301 seconds time elapsed
+
+Version 5, round 1
+
+# started on Sun Feb 27 22:51:41 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,48 Joules power/energy-cores/                                         
+
+      19,781241909 seconds time elapsed
+
+Version 6, round 1
+
+# started on Sun Feb 27 22:52:11 2022
+
+
+ Performance counter stats for 'system wide':
+
+            196,58 Joules power/energy-cores/                                         
+
+      18,190921376 seconds time elapsed
+
+Version 7, round 1
+
+# started on Sun Feb 27 22:52:39 2022
+
+
+ Performance counter stats for 'system wide':
+
+            192,06 Joules power/energy-cores/                                         
+
+      17,779232177 seconds time elapsed
+
+Version 8, round 1
+
+# started on Sun Feb 27 22:53:07 2022
+
+
+ Performance counter stats for 'system wide':
+
+            213,98 Joules power/energy-cores/                                         
+
+      19,774832849 seconds time elapsed
+
+Version 9, round 1
+
+# started on Sun Feb 27 22:53:37 2022
+
+
+ Performance counter stats for 'system wide':
+
+            201,48 Joules power/energy-cores/                                         
+
+      18,596161485 seconds time elapsed
+
+Version 10, round 1
+
+# started on Sun Feb 27 22:54:05 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,94 Joules power/energy-cores/                                         
+
+      20,017264170 seconds time elapsed
+
+Version 11, round 1
+
+# started on Sun Feb 27 22:54:35 2022
+
+
+ Performance counter stats for 'system wide':
+
+            210,14 Joules power/energy-cores/                                         
+
+      19,520835253 seconds time elapsed
+
+Version 12, round 1
+
+# started on Sun Feb 27 22:55:05 2022
+
+
+ Performance counter stats for 'system wide':
+
+            456,05 Joules power/energy-cores/                                         
+
+      42,015151204 seconds time elapsed
+
+Version 13, round 1
+
+# started on Sun Feb 27 22:55:57 2022
+
+
+ Performance counter stats for 'system wide':
+
+            327,30 Joules power/energy-cores/                                         
+
+      30,209850761 seconds time elapsed
+
+Version 14, round 1
+
+# started on Sun Feb 27 22:56:37 2022
+
+
+ Performance counter stats for 'system wide':
+
+            333,88 Joules power/energy-cores/                                         
+
+      32,295870233 seconds time elapsed
+
+Version 1, round 2
+
+# started on Sun Feb 27 22:57:19 2022
+
+
+ Performance counter stats for 'system wide':
+
+            179,88 Joules power/energy-cores/                                         
+
+      16,696674908 seconds time elapsed
+
+Version 2, round 2
+
+# started on Sun Feb 27 22:57:46 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,94 Joules power/energy-cores/                                         
+
+      19,979518422 seconds time elapsed
+
+Version 4, round 2
+
+# started on Sun Feb 27 22:58:26 2022
+
+
+ Performance counter stats for 'system wide':
+
+            206,69 Joules power/energy-cores/                                         
+
+      19,016525156 seconds time elapsed
+
+Version 5, round 2
+
+# started on Sun Feb 27 22:58:55 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,62 Joules power/energy-cores/                                         
+
+      19,829473998 seconds time elapsed
+
+Version 6, round 2
+
+# started on Sun Feb 27 22:59:25 2022
+
+
+ Performance counter stats for 'system wide':
+
+            196,78 Joules power/energy-cores/                                         
+
+      18,167069946 seconds time elapsed
+
+Version 7, round 2
+
+# started on Sun Feb 27 22:59:53 2022
+
+
+ Performance counter stats for 'system wide':
+
+            192,21 Joules power/energy-cores/                                         
+
+      17,758304756 seconds time elapsed
+
+Version 8, round 2
+
+# started on Sun Feb 27 23:00:21 2022
+
+
+ Performance counter stats for 'system wide':
+
+            213,55 Joules power/energy-cores/                                         
+
+      19,686352121 seconds time elapsed
+
+Version 9, round 2
+
+# started on Sun Feb 27 23:00:51 2022
+
+
+ Performance counter stats for 'system wide':
+
+            200,87 Joules power/energy-cores/                                         
+
+      18,512778076 seconds time elapsed
+
+Version 10, round 2
+
+# started on Sun Feb 27 23:01:19 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,08 Joules power/energy-cores/                                         
+
+      19,948613398 seconds time elapsed
+
+Version 11, round 2
+
+# started on Sun Feb 27 23:01:49 2022
+
+
+ Performance counter stats for 'system wide':
+
+            210,62 Joules power/energy-cores/                                         
+
+      19,429873123 seconds time elapsed
+
+Version 12, round 2
+
+# started on Sun Feb 27 23:02:19 2022
+
+
+ Performance counter stats for 'system wide':
+
+            454,03 Joules power/energy-cores/                                         
+
+      41,668463829 seconds time elapsed
+
+Version 13, round 2
+
+# started on Sun Feb 27 23:03:10 2022
+
+
+ Performance counter stats for 'system wide':
+
+            326,28 Joules power/energy-cores/                                         
+
+      29,980625207 seconds time elapsed
+
+Version 14, round 2
+
+# started on Sun Feb 27 23:03:51 2022
+
+
+ Performance counter stats for 'system wide':
+
+            332,10 Joules power/energy-cores/                                         
+
+      30,603542121 seconds time elapsed
+
+Version 1, round 3
+
+# started on Sun Feb 27 23:04:31 2022
+
+
+ Performance counter stats for 'system wide':
+
+            180,58 Joules power/energy-cores/                                         
+
+      16,770901296 seconds time elapsed
+
+Version 2, round 3
+
+# started on Sun Feb 27 23:04:58 2022
+
+
+ Performance counter stats for 'system wide':
+
+            217,12 Joules power/energy-cores/                                         
+
+      20,451398934 seconds time elapsed
+
+Version 4, round 3
+
+# started on Sun Feb 27 23:05:38 2022
+
+
+ Performance counter stats for 'system wide':
+
+            208,27 Joules power/energy-cores/                                         
+
+      18,969079209 seconds time elapsed
+
+Version 5, round 3
+
+# started on Sun Feb 27 23:06:07 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,11 Joules power/energy-cores/                                         
+
+      19,666482271 seconds time elapsed
+
+Version 6, round 3
+
+# started on Sun Feb 27 23:06:37 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,48 Joules power/energy-cores/                                         
+
+      18,156432242 seconds time elapsed
+
+Version 7, round 3
+
+# started on Sun Feb 27 23:07:05 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,34 Joules power/energy-cores/                                         
+
+      17,699382804 seconds time elapsed
+
+Version 8, round 3
+
+# started on Sun Feb 27 23:07:33 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,49 Joules power/energy-cores/                                         
+
+      19,595823725 seconds time elapsed
+
+Version 9, round 3
+
+# started on Sun Feb 27 23:08:03 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,15 Joules power/energy-cores/                                         
+
+      18,464172974 seconds time elapsed
+
+Version 10, round 3
+
+# started on Sun Feb 27 23:08:31 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,83 Joules power/energy-cores/                                         
+
+      19,876078158 seconds time elapsed
+
+Version 11, round 3
+
+# started on Sun Feb 27 23:09:01 2022
+
+
+ Performance counter stats for 'system wide':
+
+            212,00 Joules power/energy-cores/                                         
+
+      19,408435611 seconds time elapsed
+
+Version 12, round 3
+
+# started on Sun Feb 27 23:09:31 2022
+
+
+ Performance counter stats for 'system wide':
+
+            458,76 Joules power/energy-cores/                                         
+
+      41,670261167 seconds time elapsed
+
+Version 13, round 3
+
+# started on Sun Feb 27 23:10:22 2022
+
+
+ Performance counter stats for 'system wide':
+
+            328,40 Joules power/energy-cores/                                         
+
+      29,907821924 seconds time elapsed
+
+Version 14, round 3
+
+# started on Sun Feb 27 23:11:02 2022
+
+
+ Performance counter stats for 'system wide':
+
+            336,53 Joules power/energy-cores/                                         
+
+      30,791325751 seconds time elapsed
+
+Version 1, round 4
+
+# started on Sun Feb 27 23:11:43 2022
+
+
+ Performance counter stats for 'system wide':
+
+            180,65 Joules power/energy-cores/                                         
+
+      16,625451165 seconds time elapsed
+
+Version 2, round 4
+
+# started on Sun Feb 27 23:12:10 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,78 Joules power/energy-cores/                                         
+
+      19,959454798 seconds time elapsed
+
+Version 4, round 4
+
+# started on Sun Feb 27 23:12:50 2022
+
+
+ Performance counter stats for 'system wide':
+
+            207,77 Joules power/energy-cores/                                         
+
+      18,925070279 seconds time elapsed
+
+Version 5, round 4
+
+# started on Sun Feb 27 23:13:19 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,64 Joules power/energy-cores/                                         
+
+      19,752035636 seconds time elapsed
+
+Version 6, round 4
+
+# started on Sun Feb 27 23:13:48 2022
+
+
+ Performance counter stats for 'system wide':
+
+            199,20 Joules power/energy-cores/                                         
+
+      18,160816244 seconds time elapsed
+
+Version 7, round 4
+
+# started on Sun Feb 27 23:14:17 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,33 Joules power/energy-cores/                                         
+
+      17,709993239 seconds time elapsed
+
+Version 8, round 4
+
+# started on Sun Feb 27 23:14:44 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,72 Joules power/energy-cores/                                         
+
+      19,640954883 seconds time elapsed
+
+Version 9, round 4
+
+# started on Sun Feb 27 23:15:14 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,66 Joules power/energy-cores/                                         
+
+      18,505252033 seconds time elapsed
+
+Version 10, round 4
+
+# started on Sun Feb 27 23:15:43 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,45 Joules power/energy-cores/                                         
+
+      19,912148182 seconds time elapsed
+
+Version 11, round 4
+
+# started on Sun Feb 27 23:16:13 2022
+
+
+ Performance counter stats for 'system wide':
+
+            212,05 Joules power/energy-cores/                                         
+
+      19,424666279 seconds time elapsed
+
+Version 12, round 4
+
+# started on Sun Feb 27 23:16:42 2022
+
+
+ Performance counter stats for 'system wide':
+
+            457,87 Joules power/energy-cores/                                         
+
+      41,595325265 seconds time elapsed
+
+Version 13, round 4
+
+# started on Sun Feb 27 23:17:34 2022
+
+
+ Performance counter stats for 'system wide':
+
+            328,21 Joules power/energy-cores/                                         
+
+      29,850597719 seconds time elapsed
+
+Version 14, round 4
+
+# started on Sun Feb 27 23:18:14 2022
+
+
+ Performance counter stats for 'system wide':
+
+            335,06 Joules power/energy-cores/                                         
+
+      30,548446489 seconds time elapsed
+
+Version 1, round 5
+
+# started on Sun Feb 27 23:18:54 2022
+
+
+ Performance counter stats for 'system wide':
+
+            184,10 Joules power/energy-cores/                                         
+
+      16,913828893 seconds time elapsed
+
+Version 2, round 5
+
+# started on Sun Feb 27 23:19:21 2022
+
+
+ Performance counter stats for 'system wide':
+
+            219,06 Joules power/energy-cores/                                         
+
+      19,929849317 seconds time elapsed
+
+Version 4, round 5
+
+# started on Sun Feb 27 23:20:01 2022
+
+
+ Performance counter stats for 'system wide':
+
+            208,14 Joules power/energy-cores/                                         
+
+      18,950741123 seconds time elapsed
+
+Version 5, round 5
+
+# started on Sun Feb 27 23:20:30 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,95 Joules power/energy-cores/                                         
+
+      19,713434253 seconds time elapsed
+
+Version 6, round 5
+
+# started on Sun Feb 27 23:21:00 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,95 Joules power/energy-cores/                                         
+
+      18,131621930 seconds time elapsed
+
+Version 7, round 5
+
+# started on Sun Feb 27 23:21:28 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,19 Joules power/energy-cores/                                         
+
+      17,680171379 seconds time elapsed
+
+Version 8, round 5
+
+# started on Sun Feb 27 23:21:56 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,28 Joules power/energy-cores/                                         
+
+      19,608202210 seconds time elapsed
+
+Version 9, round 5
+
+# started on Sun Feb 27 23:22:25 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,50 Joules power/energy-cores/                                         
+
+      18,454979173 seconds time elapsed
+
+Version 10, round 5
+
+# started on Sun Feb 27 23:22:54 2022
+
+
+ Performance counter stats for 'system wide':
+
+            217,80 Joules power/energy-cores/                                         
+
+      19,937705682 seconds time elapsed
+
+Version 11, round 5
+
+# started on Sun Feb 27 23:23:24 2022
+
+
+ Performance counter stats for 'system wide':
+
+            212,14 Joules power/energy-cores/                                         
+
+      19,357035643 seconds time elapsed
+
+Version 12, round 5
+
+# started on Sun Feb 27 23:23:53 2022
+
+
+ Performance counter stats for 'system wide':
+
+            458,88 Joules power/energy-cores/                                         
+
+      41,643312831 seconds time elapsed
+
+Version 13, round 5
+
+# started on Sun Feb 27 23:24:45 2022
+
+
+ Performance counter stats for 'system wide':
+
+            328,88 Joules power/energy-cores/                                         
+
+      29,913407693 seconds time elapsed
+
+Version 14, round 5
+
+# started on Sun Feb 27 23:25:25 2022
+
+
+ Performance counter stats for 'system wide':
+
+            335,79 Joules power/energy-cores/                                         
+
+      30,611105751 seconds time elapsed
+
+Version 1, round 6
+
+# started on Sun Feb 27 23:26:05 2022
+
+
+ Performance counter stats for 'system wide':
+
+            175,22 Joules power/energy-cores/                                         
+
+      16,143711464 seconds time elapsed
+
+Version 2, round 6
+
+# started on Sun Feb 27 23:26:32 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,31 Joules power/energy-cores/                                         
+
+      19,897566816 seconds time elapsed
+
+Version 4, round 6
+
+# started on Sun Feb 27 23:27:12 2022
+
+
+ Performance counter stats for 'system wide':
+
+            209,05 Joules power/energy-cores/                                         
+
+      19,066707068 seconds time elapsed
+
+Version 5, round 6
+
+# started on Sun Feb 27 23:27:41 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,43 Joules power/energy-cores/                                         
+
+      19,664341845 seconds time elapsed
+
+Version 6, round 6
+
+# started on Sun Feb 27 23:28:10 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,84 Joules power/energy-cores/                                         
+
+      18,133138460 seconds time elapsed
+
+Version 7, round 6
+
+# started on Sun Feb 27 23:28:39 2022
+
+
+ Performance counter stats for 'system wide':
+
+            192,98 Joules power/energy-cores/                                         
+
+      17,669356818 seconds time elapsed
+
+Version 8, round 6
+
+# started on Sun Feb 27 23:29:06 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,92 Joules power/energy-cores/                                         
+
+      19,610349322 seconds time elapsed
+
+Version 9, round 6
+
+# started on Sun Feb 27 23:29:36 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,38 Joules power/energy-cores/                                         
+
+      18,448265578 seconds time elapsed
+
+Version 10, round 6
+
+# started on Sun Feb 27 23:30:04 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,75 Joules power/energy-cores/                                         
+
+      19,924252056 seconds time elapsed
+
+Version 11, round 6
+
+# started on Sun Feb 27 23:30:34 2022
+
+
+ Performance counter stats for 'system wide':
+
+            212,13 Joules power/energy-cores/                                         
+
+      19,404085423 seconds time elapsed
+
+Version 12, round 6
+
+# started on Sun Feb 27 23:31:04 2022
+
+
+ Performance counter stats for 'system wide':
+
+            457,85 Joules power/energy-cores/                                         
+
+      41,547585077 seconds time elapsed
+
+Version 13, round 6
+
+# started on Sun Feb 27 23:31:55 2022
+
+
+ Performance counter stats for 'system wide':
+
+            328,64 Joules power/energy-cores/                                         
+
+      29,905187192 seconds time elapsed
+
+Version 14, round 6
+
+# started on Sun Feb 27 23:32:35 2022
+
+
+ Performance counter stats for 'system wide':
+
+            334,76 Joules power/energy-cores/                                         
+
+      30,515051189 seconds time elapsed
+
+Version 1, round 7
+
+# started on Sun Feb 27 23:33:16 2022
+
+
+ Performance counter stats for 'system wide':
+
+            178,31 Joules power/energy-cores/                                         
+
+      16,410911712 seconds time elapsed
+
+Version 2, round 7
+
+# started on Sun Feb 27 23:33:42 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,67 Joules power/energy-cores/                                         
+
+      19,950997022 seconds time elapsed
+
+Version 4, round 7
+
+# started on Sun Feb 27 23:34:22 2022
+
+
+ Performance counter stats for 'system wide':
+
+            208,92 Joules power/energy-cores/                                         
+
+      19,033212274 seconds time elapsed
+
+Version 5, round 7
+
+# started on Sun Feb 27 23:34:51 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,04 Joules power/energy-cores/                                         
+
+      19,669447873 seconds time elapsed
+
+Version 6, round 7
+
+# started on Sun Feb 27 23:35:21 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,65 Joules power/energy-cores/                                         
+
+      18,095738511 seconds time elapsed
+
+Version 7, round 7
+
+# started on Sun Feb 27 23:35:49 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,11 Joules power/energy-cores/                                         
+
+      17,648333569 seconds time elapsed
+
+Version 8, round 7
+
+# started on Sun Feb 27 23:36:17 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,93 Joules power/energy-cores/                                         
+
+      19,630758227 seconds time elapsed
+
+Version 9, round 7
+
+# started on Sun Feb 27 23:36:47 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,01 Joules power/energy-cores/                                         
+
+      18,486847423 seconds time elapsed
+
+Version 10, round 7
+
+# started on Sun Feb 27 23:37:15 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,58 Joules power/energy-cores/                                         
+
+      19,899684770 seconds time elapsed
+
+Version 11, round 7
+
+# started on Sun Feb 27 23:37:45 2022
+
+
+ Performance counter stats for 'system wide':
+
+            212,18 Joules power/energy-cores/                                         
+
+      19,451676941 seconds time elapsed
+
+Version 12, round 7
+
+# started on Sun Feb 27 23:38:15 2022
+
+
+ Performance counter stats for 'system wide':
+
+            457,88 Joules power/energy-cores/                                         
+
+      41,569400761 seconds time elapsed
+
+Version 13, round 7
+
+# started on Sun Feb 27 23:39:06 2022
+
+
+ Performance counter stats for 'system wide':
+
+            329,28 Joules power/energy-cores/                                         
+
+      29,933084481 seconds time elapsed
+
+Version 14, round 7
+
+# started on Sun Feb 27 23:39:46 2022
+
+
+ Performance counter stats for 'system wide':
+
+            334,87 Joules power/energy-cores/                                         
+
+      30,536155486 seconds time elapsed
+
+Version 1, round 8
+
+# started on Sun Feb 27 23:40:27 2022
+
+
+ Performance counter stats for 'system wide':
+
+            175,21 Joules power/energy-cores/                                         
+
+      16,121179616 seconds time elapsed
+
+Version 2, round 8
+
+# started on Sun Feb 27 23:40:53 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,81 Joules power/energy-cores/                                         
+
+      19,942738255 seconds time elapsed
+
+Version 4, round 8
+
+# started on Sun Feb 27 23:41:33 2022
+
+
+ Performance counter stats for 'system wide':
+
+            206,74 Joules power/energy-cores/                                         
+
+      18,874811379 seconds time elapsed
+
+Version 5, round 8
+
+# started on Sun Feb 27 23:42:02 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,57 Joules power/energy-cores/                                         
+
+      19,673840949 seconds time elapsed
+
+Version 6, round 8
+
+# started on Sun Feb 27 23:42:31 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,78 Joules power/energy-cores/                                         
+
+      18,129653379 seconds time elapsed
+
+Version 7, round 8
+
+# started on Sun Feb 27 23:43:00 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,36 Joules power/energy-cores/                                         
+
+      17,641902434 seconds time elapsed
+
+Version 8, round 8
+
+# started on Sun Feb 27 23:43:27 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,91 Joules power/energy-cores/                                         
+
+      19,629956744 seconds time elapsed
+
+Version 9, round 8
+
+# started on Sun Feb 27 23:43:57 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,25 Joules power/energy-cores/                                         
+
+      18,499202969 seconds time elapsed
+
+Version 10, round 8
+
+# started on Sun Feb 27 23:44:26 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,66 Joules power/energy-cores/                                         
+
+      19,920038937 seconds time elapsed
+
+Version 11, round 8
+
+# started on Sun Feb 27 23:44:55 2022
+
+
+ Performance counter stats for 'system wide':
+
+            213,12 Joules power/energy-cores/                                         
+
+      19,444844562 seconds time elapsed
+
+Version 12, round 8
+
+# started on Sun Feb 27 23:45:25 2022
+
+
+ Performance counter stats for 'system wide':
+
+            457,88 Joules power/energy-cores/                                         
+
+      41,574909196 seconds time elapsed
+
+Version 13, round 8
+
+# started on Sun Feb 27 23:46:17 2022
+
+
+ Performance counter stats for 'system wide':
+
+            329,15 Joules power/energy-cores/                                         
+
+      29,935828955 seconds time elapsed
+
+Version 14, round 8
+
+# started on Sun Feb 27 23:46:57 2022
+
+
+ Performance counter stats for 'system wide':
+
+            334,89 Joules power/energy-cores/                                         
+
+      30,555998370 seconds time elapsed
+
+Version 1, round 9
+
+# started on Sun Feb 27 23:47:37 2022
+
+
+ Performance counter stats for 'system wide':
+
+            178,34 Joules power/energy-cores/                                         
+
+      16,426416753 seconds time elapsed
+
+Version 2, round 9
+
+# started on Sun Feb 27 23:48:04 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,89 Joules power/energy-cores/                                         
+
+      19,964572184 seconds time elapsed
+
+Version 4, round 9
+
+# started on Sun Feb 27 23:48:44 2022
+
+
+ Performance counter stats for 'system wide':
+
+            208,04 Joules power/energy-cores/                                         
+
+      18,976636403 seconds time elapsed
+
+Version 5, round 9
+
+# started on Sun Feb 27 23:49:13 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,31 Joules power/energy-cores/                                         
+
+      19,634114045 seconds time elapsed
+
+Version 6, round 9
+
+# started on Sun Feb 27 23:49:42 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,07 Joules power/energy-cores/                                         
+
+      18,151258262 seconds time elapsed
+
+Version 7, round 9
+
+# started on Sun Feb 27 23:50:11 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,27 Joules power/energy-cores/                                         
+
+      17,696808463 seconds time elapsed
+
+Version 8, round 9
+
+# started on Sun Feb 27 23:50:38 2022
+
+
+ Performance counter stats for 'system wide':
+
+            213,99 Joules power/energy-cores/                                         
+
+      19,618563318 seconds time elapsed
+
+Version 9, round 9
+
+# started on Sun Feb 27 23:51:08 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,03 Joules power/energy-cores/                                         
+
+      18,449486554 seconds time elapsed
+
+Version 10, round 9
+
+# started on Sun Feb 27 23:51:36 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,89 Joules power/energy-cores/                                         
+
+      19,961253224 seconds time elapsed
+
+Version 11, round 9
+
+# started on Sun Feb 27 23:52:06 2022
+
+
+ Performance counter stats for 'system wide':
+
+            211,55 Joules power/energy-cores/                                         
+
+      19,398289353 seconds time elapsed
+
+Version 12, round 9
+
+# started on Sun Feb 27 23:52:36 2022
+
+
+ Performance counter stats for 'system wide':
+
+            458,37 Joules power/energy-cores/                                         
+
+      41,624672869 seconds time elapsed
+
+Version 13, round 9
+
+# started on Sun Feb 27 23:53:27 2022
+
+
+ Performance counter stats for 'system wide':
+
+            328,07 Joules power/energy-cores/                                         
+
+      29,822622060 seconds time elapsed
+
+Version 14, round 9
+
+# started on Sun Feb 27 23:54:07 2022
+
+
+ Performance counter stats for 'system wide':
+
+            336,45 Joules power/energy-cores/                                         
+
+      30,669349742 seconds time elapsed
+
+Version 1, round 10
+
+# started on Sun Feb 27 23:54:48 2022
+
+
+ Performance counter stats for 'system wide':
+
+            183,59 Joules power/energy-cores/                                         
+
+      16,856220446 seconds time elapsed
+
+Version 2, round 10
+
+# started on Sun Feb 27 23:55:15 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,50 Joules power/energy-cores/                                         
+
+      19,907980743 seconds time elapsed
+
+Version 4, round 10
+
+# started on Sun Feb 27 23:55:55 2022
+
+
+ Performance counter stats for 'system wide':
+
+            208,59 Joules power/energy-cores/                                         
+
+      18,979368337 seconds time elapsed
+
+Version 5, round 10
+
+# started on Sun Feb 27 23:56:24 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,54 Joules power/energy-cores/                                         
+
+      19,653889303 seconds time elapsed
+
+Version 6, round 10
+
+# started on Sun Feb 27 23:56:54 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,41 Joules power/energy-cores/                                         
+
+      18,146593913 seconds time elapsed
+
+Version 7, round 10
+
+# started on Sun Feb 27 23:57:22 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,16 Joules power/energy-cores/                                         
+
+      17,660123898 seconds time elapsed
+
+Version 8, round 10
+
+# started on Sun Feb 27 23:57:49 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,79 Joules power/energy-cores/                                         
+
+      19,629982829 seconds time elapsed
+
+Version 9, round 10
+
+# started on Sun Feb 27 23:58:19 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,93 Joules power/energy-cores/                                         
+
+      18,487761169 seconds time elapsed
+
+Version 10, round 10
+
+# started on Sun Feb 27 23:58:48 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,65 Joules power/energy-cores/                                         
+
+      19,916532874 seconds time elapsed
+
+Version 11, round 10
+
+# started on Sun Feb 27 23:59:18 2022
+
+
+ Performance counter stats for 'system wide':
+
+            211,67 Joules power/energy-cores/                                         
+
+      19,395805698 seconds time elapsed
+
+Version 12, round 10
+
+# started on Sun Feb 27 23:59:47 2022
+
+
+ Performance counter stats for 'system wide':
+
+            458,83 Joules power/energy-cores/                                         
+
+      41,739800866 seconds time elapsed
+
+Version 13, round 10
+
+# started on Mon Feb 28 00:00:39 2022
+
+
+ Performance counter stats for 'system wide':
+
+            327,91 Joules power/energy-cores/                                         
+
+      29,873973244 seconds time elapsed
+
+Version 14, round 10
+
+# started on Mon Feb 28 00:01:19 2022
+
+
+ Performance counter stats for 'system wide':
+
+            334,71 Joules power/energy-cores/                                         
+
+      30,526423096 seconds time elapsed
+
+Version 1, round 11
+
+# started on Mon Feb 28 00:01:59 2022
+
+
+ Performance counter stats for 'system wide':
+
+            178,51 Joules power/energy-cores/                                         
+
+      16,417742206 seconds time elapsed
+
+Version 2, round 11
+
+# started on Mon Feb 28 00:02:26 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,69 Joules power/energy-cores/                                         
+
+      19,911301855 seconds time elapsed
+
+Version 4, round 11
+
+# started on Mon Feb 28 00:03:06 2022
+
+
+ Performance counter stats for 'system wide':
+
+            207,59 Joules power/energy-cores/                                         
+
+      18,979914981 seconds time elapsed
+
+Version 5, round 11
+
+# started on Mon Feb 28 00:03:35 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,37 Joules power/energy-cores/                                         
+
+      19,626355164 seconds time elapsed
+
+Version 6, round 11
+
+# started on Mon Feb 28 00:04:04 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,60 Joules power/energy-cores/                                         
+
+      18,115144405 seconds time elapsed
+
+Version 7, round 11
+
+# started on Mon Feb 28 00:04:33 2022
+
+
+ Performance counter stats for 'system wide':
+
+            194,03 Joules power/energy-cores/                                         
+
+      17,679487646 seconds time elapsed
+
+Version 8, round 11
+
+# started on Mon Feb 28 00:05:00 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,37 Joules power/energy-cores/                                         
+
+      19,636427203 seconds time elapsed
+
+Version 9, round 11
+
+# started on Mon Feb 28 00:05:30 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,73 Joules power/energy-cores/                                         
+
+      18,471502483 seconds time elapsed
+
+Version 10, round 11
+
+# started on Mon Feb 28 00:05:58 2022
+
+
+ Performance counter stats for 'system wide':
+
+            217,41 Joules power/energy-cores/                                         
+
+      19,894271931 seconds time elapsed
+
+Version 11, round 11
+
+# started on Mon Feb 28 00:06:28 2022
+
+
+ Performance counter stats for 'system wide':
+
+            212,03 Joules power/energy-cores/                                         
+
+      19,405300961 seconds time elapsed
+
+Version 12, round 11
+
+# started on Mon Feb 28 00:06:58 2022
+
+
+ Performance counter stats for 'system wide':
+
+            458,78 Joules power/energy-cores/                                         
+
+      41,664597635 seconds time elapsed
+
+Version 13, round 11
+
+# started on Mon Feb 28 00:07:50 2022
+
+
+ Performance counter stats for 'system wide':
+
+            329,73 Joules power/energy-cores/                                         
+
+      29,959011230 seconds time elapsed
+
+Version 14, round 11
+
+# started on Mon Feb 28 00:08:30 2022
+
+
+ Performance counter stats for 'system wide':
+
+            334,73 Joules power/energy-cores/                                         
+
+      30,498453947 seconds time elapsed
+
+Version 1, round 12
+
+# started on Mon Feb 28 00:09:10 2022
+
+
+ Performance counter stats for 'system wide':
+
+            180,49 Joules power/energy-cores/                                         
+
+      16,637296402 seconds time elapsed
+
+Version 2, round 12
+
+# started on Mon Feb 28 00:09:37 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,28 Joules power/energy-cores/                                         
+
+      19,902512424 seconds time elapsed
+
+Version 4, round 12
+
+# started on Mon Feb 28 00:10:17 2022
+
+
+ Performance counter stats for 'system wide':
+
+            207,77 Joules power/energy-cores/                                         
+
+      18,919614906 seconds time elapsed
+
+Version 5, round 12
+
+# started on Mon Feb 28 00:10:46 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,89 Joules power/energy-cores/                                         
+
+      19,607538838 seconds time elapsed
+
+Version 6, round 12
+
+# started on Mon Feb 28 00:11:15 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,64 Joules power/energy-cores/                                         
+
+      18,091642871 seconds time elapsed
+
+Version 7, round 12
+
+# started on Mon Feb 28 00:11:43 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,49 Joules power/energy-cores/                                         
+
+      17,686319790 seconds time elapsed
+
+Version 8, round 12
+
+# started on Mon Feb 28 00:12:11 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,99 Joules power/energy-cores/                                         
+
+      19,644079128 seconds time elapsed
+
+Version 9, round 12
+
+# started on Mon Feb 28 00:12:41 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,25 Joules power/energy-cores/                                         
+
+      18,449837407 seconds time elapsed
+
+Version 10, round 12
+
+# started on Mon Feb 28 00:13:09 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,11 Joules power/energy-cores/                                         
+
+      19,881236840 seconds time elapsed
+
+Version 11, round 12
+
+# started on Mon Feb 28 00:13:39 2022
+
+
+ Performance counter stats for 'system wide':
+
+            211,80 Joules power/energy-cores/                                         
+
+      19,434406022 seconds time elapsed
+
+Version 12, round 12
+
+# started on Mon Feb 28 00:14:09 2022
+
+
+ Performance counter stats for 'system wide':
+
+            458,51 Joules power/energy-cores/                                         
+
+      41,609265802 seconds time elapsed
+
+Version 13, round 12
+
+# started on Mon Feb 28 00:15:00 2022
+
+
+ Performance counter stats for 'system wide':
+
+            328,33 Joules power/energy-cores/                                         
+
+      29,851686289 seconds time elapsed
+
+Version 14, round 12
+
+# started on Mon Feb 28 00:15:40 2022
+
+
+ Performance counter stats for 'system wide':
+
+            334,36 Joules power/energy-cores/                                         
+
+      30,519262184 seconds time elapsed
+
+Version 1, round 13
+
+# started on Mon Feb 28 00:16:21 2022
+
+
+ Performance counter stats for 'system wide':
+
+            178,62 Joules power/energy-cores/                                         
+
+      16,439113489 seconds time elapsed
+
+Version 2, round 13
+
+# started on Mon Feb 28 00:16:47 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,53 Joules power/energy-cores/                                         
+
+      19,903654076 seconds time elapsed
+
+Version 4, round 13
+
+# started on Mon Feb 28 00:17:27 2022
+
+
+ Performance counter stats for 'system wide':
+
+            207,43 Joules power/energy-cores/                                         
+
+      18,958076272 seconds time elapsed
+
+Version 5, round 13
+
+# started on Mon Feb 28 00:17:56 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,12 Joules power/energy-cores/                                         
+
+      19,731176930 seconds time elapsed
+
+Version 6, round 13
+
+# started on Mon Feb 28 00:18:26 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,36 Joules power/energy-cores/                                         
+
+      18,095903525 seconds time elapsed
+
+Version 7, round 13
+
+# started on Mon Feb 28 00:18:54 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,26 Joules power/energy-cores/                                         
+
+      17,727137498 seconds time elapsed
+
+Version 8, round 13
+
+# started on Mon Feb 28 00:19:22 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,44 Joules power/energy-cores/                                         
+
+      19,612791399 seconds time elapsed
+
+Version 9, round 13
+
+# started on Mon Feb 28 00:19:52 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,50 Joules power/energy-cores/                                         
+
+      18,446455934 seconds time elapsed
+
+Version 10, round 13
+
+# started on Mon Feb 28 00:20:20 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,53 Joules power/energy-cores/                                         
+
+      19,940620632 seconds time elapsed
+
+Version 11, round 13
+
+# started on Mon Feb 28 00:20:50 2022
+
+
+ Performance counter stats for 'system wide':
+
+            212,50 Joules power/energy-cores/                                         
+
+      19,418936263 seconds time elapsed
+
+Version 12, round 13
+
+# started on Mon Feb 28 00:21:19 2022
+
+
+ Performance counter stats for 'system wide':
+
+            458,08 Joules power/energy-cores/                                         
+
+      41,598015895 seconds time elapsed
+
+Version 13, round 13
+
+# started on Mon Feb 28 00:22:11 2022
+
+
+ Performance counter stats for 'system wide':
+
+            330,32 Joules power/energy-cores/                                         
+
+      30,010266307 seconds time elapsed
+
+Version 14, round 13
+
+# started on Mon Feb 28 00:22:51 2022
+
+
+ Performance counter stats for 'system wide':
+
+            334,69 Joules power/energy-cores/                                         
+
+      30,537145257 seconds time elapsed
+
+Version 1, round 14
+
+# started on Mon Feb 28 00:23:32 2022
+
+
+ Performance counter stats for 'system wide':
+
+            183,95 Joules power/energy-cores/                                         
+
+      16,905600913 seconds time elapsed
+
+Version 2, round 14
+
+# started on Mon Feb 28 00:23:59 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,74 Joules power/energy-cores/                                         
+
+      19,910119968 seconds time elapsed
+
+Version 4, round 14
+
+# started on Mon Feb 28 00:24:39 2022
+
+
+ Performance counter stats for 'system wide':
+
+            208,29 Joules power/energy-cores/                                         
+
+      18,945187126 seconds time elapsed
+
+Version 5, round 14
+
+# started on Mon Feb 28 00:25:08 2022
+
+
+ Performance counter stats for 'system wide':
+
+            217,04 Joules power/energy-cores/                                         
+
+      19,761965342 seconds time elapsed
+
+Version 6, round 14
+
+# started on Mon Feb 28 00:25:37 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,92 Joules power/energy-cores/                                         
+
+      18,096384004 seconds time elapsed
+
+Version 7, round 14
+
+# started on Mon Feb 28 00:26:06 2022
+
+
+ Performance counter stats for 'system wide':
+
+            192,90 Joules power/energy-cores/                                         
+
+      17,679638554 seconds time elapsed
+
+Version 8, round 14
+
+# started on Mon Feb 28 00:26:33 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,60 Joules power/energy-cores/                                         
+
+      19,608266671 seconds time elapsed
+
+Version 9, round 14
+
+# started on Mon Feb 28 00:27:03 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,34 Joules power/energy-cores/                                         
+
+      18,466940856 seconds time elapsed
+
+Version 10, round 14
+
+# started on Mon Feb 28 00:27:31 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,59 Joules power/energy-cores/                                         
+
+      19,929032358 seconds time elapsed
+
+Version 11, round 14
+
+# started on Mon Feb 28 00:28:01 2022
+
+
+ Performance counter stats for 'system wide':
+
+            212,08 Joules power/energy-cores/                                         
+
+      19,458165429 seconds time elapsed
+
+Version 12, round 14
+
+# started on Mon Feb 28 00:28:31 2022
+
+
+ Performance counter stats for 'system wide':
+
+            457,71 Joules power/energy-cores/                                         
+
+      41,561342519 seconds time elapsed
+
+Version 13, round 14
+
+# started on Mon Feb 28 00:29:22 2022
+
+
+ Performance counter stats for 'system wide':
+
+            328,79 Joules power/energy-cores/                                         
+
+      29,877759307 seconds time elapsed
+
+Version 14, round 14
+
+# started on Mon Feb 28 00:30:02 2022
+
+
+ Performance counter stats for 'system wide':
+
+            335,21 Joules power/energy-cores/                                         
+
+      30,561670155 seconds time elapsed
+
+Version 1, round 15
+
+# started on Mon Feb 28 00:30:43 2022
+
+
+ Performance counter stats for 'system wide':
+
+            184,54 Joules power/energy-cores/                                         
+
+      16,956708057 seconds time elapsed
+
+Version 2, round 15
+
+# started on Mon Feb 28 00:31:10 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,62 Joules power/energy-cores/                                         
+
+      19,925953062 seconds time elapsed
+
+Version 4, round 15
+
+# started on Mon Feb 28 00:31:50 2022
+
+
+ Performance counter stats for 'system wide':
+
+            208,22 Joules power/energy-cores/                                         
+
+      19,001792374 seconds time elapsed
+
+Version 5, round 15
+
+# started on Mon Feb 28 00:32:19 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,28 Joules power/energy-cores/                                         
+
+      19,651587585 seconds time elapsed
+
+Version 6, round 15
+
+# started on Mon Feb 28 00:32:49 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,38 Joules power/energy-cores/                                         
+
+      18,114590511 seconds time elapsed
+
+Version 7, round 15
+
+# started on Mon Feb 28 00:33:17 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,28 Joules power/energy-cores/                                         
+
+      17,629547642 seconds time elapsed
+
+Version 8, round 15
+
+# started on Mon Feb 28 00:33:44 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,56 Joules power/energy-cores/                                         
+
+      19,674969359 seconds time elapsed
+
+Version 9, round 15
+
+# started on Mon Feb 28 00:34:14 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,41 Joules power/energy-cores/                                         
+
+      18,478695194 seconds time elapsed
+
+Version 10, round 15
+
+# started on Mon Feb 28 00:34:43 2022
+
+
+ Performance counter stats for 'system wide':
+
+            217,32 Joules power/energy-cores/                                         
+
+      19,922957492 seconds time elapsed
+
+Version 11, round 15
+
+# started on Mon Feb 28 00:35:13 2022
+
+
+ Performance counter stats for 'system wide':
+
+            212,54 Joules power/energy-cores/                                         
+
+      19,414742677 seconds time elapsed
+
+Version 12, round 15
+
+# started on Mon Feb 28 00:35:42 2022
+
+
+ Performance counter stats for 'system wide':
+
+            457,94 Joules power/energy-cores/                                         
+
+      41,574823644 seconds time elapsed
+
+Version 13, round 15
+
+# started on Mon Feb 28 00:36:34 2022
+
+
+ Performance counter stats for 'system wide':
+
+            329,42 Joules power/energy-cores/                                         
+
+      29,930208455 seconds time elapsed
+
+Version 14, round 15
+
+# started on Mon Feb 28 00:37:14 2022
+
+
+ Performance counter stats for 'system wide':
+
+            333,94 Joules power/energy-cores/                                         
+
+      30,449417454 seconds time elapsed
+
+Version 1, round 16
+
+# started on Mon Feb 28 00:37:54 2022
+
+
+ Performance counter stats for 'system wide':
+
+            181,10 Joules power/energy-cores/                                         
+
+      16,651804313 seconds time elapsed
+
+Version 2, round 16
+
+# started on Mon Feb 28 00:38:21 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,58 Joules power/energy-cores/                                         
+
+      19,919613802 seconds time elapsed
+
+Version 4, round 16
+
+# started on Mon Feb 28 00:39:01 2022
+
+
+ Performance counter stats for 'system wide':
+
+            208,05 Joules power/energy-cores/                                         
+
+      18,917539030 seconds time elapsed
+
+Version 5, round 16
+
+# started on Mon Feb 28 00:39:30 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,22 Joules power/energy-cores/                                         
+
+      19,600961410 seconds time elapsed
+
+Version 6, round 16
+
+# started on Mon Feb 28 00:39:59 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,34 Joules power/energy-cores/                                         
+
+      18,098777309 seconds time elapsed
+
+Version 7, round 16
+
+# started on Mon Feb 28 00:40:28 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,55 Joules power/energy-cores/                                         
+
+      17,664027903 seconds time elapsed
+
+Version 8, round 16
+
+# started on Mon Feb 28 00:40:55 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,03 Joules power/energy-cores/                                         
+
+      19,643063863 seconds time elapsed
+
+Version 9, round 16
+
+# started on Mon Feb 28 00:41:25 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,22 Joules power/energy-cores/                                         
+
+      18,495125714 seconds time elapsed
+
+Version 10, round 16
+
+# started on Mon Feb 28 00:41:53 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,51 Joules power/energy-cores/                                         
+
+      19,894582923 seconds time elapsed
+
+Version 11, round 16
+
+# started on Mon Feb 28 00:42:23 2022
+
+
+ Performance counter stats for 'system wide':
+
+            212,15 Joules power/energy-cores/                                         
+
+      19,418610642 seconds time elapsed
+
+Version 12, round 16
+
+# started on Mon Feb 28 00:42:53 2022
+
+
+ Performance counter stats for 'system wide':
+
+            458,03 Joules power/energy-cores/                                         
+
+      41,581259863 seconds time elapsed
+
+Version 13, round 16
+
+# started on Mon Feb 28 00:43:44 2022
+
+
+ Performance counter stats for 'system wide':
+
+            329,86 Joules power/energy-cores/                                         
+
+      29,973589034 seconds time elapsed
+
+Version 14, round 16
+
+# started on Mon Feb 28 00:44:24 2022
+
+
+ Performance counter stats for 'system wide':
+
+            334,46 Joules power/energy-cores/                                         
+
+      30,543187058 seconds time elapsed
+
+Version 1, round 17
+
+# started on Mon Feb 28 00:45:05 2022
+
+
+ Performance counter stats for 'system wide':
+
+            182,66 Joules power/energy-cores/                                         
+
+      16,774900977 seconds time elapsed
+
+Version 2, round 17
+
+# started on Mon Feb 28 00:45:32 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,43 Joules power/energy-cores/                                         
+
+      19,914129942 seconds time elapsed
+
+Version 4, round 17
+
+# started on Mon Feb 28 00:46:12 2022
+
+
+ Performance counter stats for 'system wide':
+
+            207,57 Joules power/energy-cores/                                         
+
+      18,908717642 seconds time elapsed
+
+Version 5, round 17
+
+# started on Mon Feb 28 00:46:41 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,42 Joules power/energy-cores/                                         
+
+      19,649564380 seconds time elapsed
+
+Version 6, round 17
+
+# started on Mon Feb 28 00:47:10 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,18 Joules power/energy-cores/                                         
+
+      18,103846595 seconds time elapsed
+
+Version 7, round 17
+
+# started on Mon Feb 28 00:47:39 2022
+
+
+ Performance counter stats for 'system wide':
+
+            192,96 Joules power/energy-cores/                                         
+
+      17,681905982 seconds time elapsed
+
+Version 8, round 17
+
+# started on Mon Feb 28 00:48:06 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,96 Joules power/energy-cores/                                         
+
+      19,668419414 seconds time elapsed
+
+Version 9, round 17
+
+# started on Mon Feb 28 00:48:36 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,52 Joules power/energy-cores/                                         
+
+      18,470516244 seconds time elapsed
+
+Version 10, round 17
+
+# started on Mon Feb 28 00:49:05 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,42 Joules power/energy-cores/                                         
+
+      19,885206490 seconds time elapsed
+
+Version 11, round 17
+
+# started on Mon Feb 28 00:49:34 2022
+
+
+ Performance counter stats for 'system wide':
+
+            211,74 Joules power/energy-cores/                                         
+
+      19,381107433 seconds time elapsed
+
+Version 12, round 17
+
+# started on Mon Feb 28 00:50:04 2022
+
+
+ Performance counter stats for 'system wide':
+
+            457,84 Joules power/energy-cores/                                         
+
+      41,552048775 seconds time elapsed
+
+Version 13, round 17
+
+# started on Mon Feb 28 00:50:55 2022
+
+
+ Performance counter stats for 'system wide':
+
+            328,78 Joules power/energy-cores/                                         
+
+      29,886790171 seconds time elapsed
+
+Version 14, round 17
+
+# started on Mon Feb 28 00:51:35 2022
+
+
+ Performance counter stats for 'system wide':
+
+            335,88 Joules power/energy-cores/                                         
+
+      30,635127037 seconds time elapsed
+
+Version 1, round 18
+
+# started on Mon Feb 28 00:52:16 2022
+
+
+ Performance counter stats for 'system wide':
+
+            183,16 Joules power/energy-cores/                                         
+
+      16,858494750 seconds time elapsed
+
+Version 2, round 18
+
+# started on Mon Feb 28 00:52:43 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,55 Joules power/energy-cores/                                         
+
+      19,896033988 seconds time elapsed
+
+Version 4, round 18
+
+# started on Mon Feb 28 00:53:23 2022
+
+
+ Performance counter stats for 'system wide':
+
+            208,36 Joules power/energy-cores/                                         
+
+      19,008710235 seconds time elapsed
+
+Version 5, round 18
+
+# started on Mon Feb 28 00:53:52 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,35 Joules power/energy-cores/                                         
+
+      19,766186749 seconds time elapsed
+
+Version 6, round 18
+
+# started on Mon Feb 28 00:54:22 2022
+
+
+ Performance counter stats for 'system wide':
+
+            199,17 Joules power/energy-cores/                                         
+
+      18,111628187 seconds time elapsed
+
+Version 7, round 18
+
+# started on Mon Feb 28 00:54:50 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,22 Joules power/energy-cores/                                         
+
+      17,678574297 seconds time elapsed
+
+Version 8, round 18
+
+# started on Mon Feb 28 00:55:18 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,82 Joules power/energy-cores/                                         
+
+      19,607173365 seconds time elapsed
+
+Version 9, round 18
+
+# started on Mon Feb 28 00:55:47 2022
+
+
+ Performance counter stats for 'system wide':
+
+            201,94 Joules power/energy-cores/                                         
+
+      18,424717123 seconds time elapsed
+
+Version 10, round 18
+
+# started on Mon Feb 28 00:56:16 2022
+
+
+ Performance counter stats for 'system wide':
+
+            217,17 Joules power/energy-cores/                                         
+
+      19,907238453 seconds time elapsed
+
+Version 11, round 18
+
+# started on Mon Feb 28 00:56:46 2022
+
+
+ Performance counter stats for 'system wide':
+
+            211,90 Joules power/energy-cores/                                         
+
+      19,424465865 seconds time elapsed
+
+Version 12, round 18
+
+# started on Mon Feb 28 00:57:15 2022
+
+
+ Performance counter stats for 'system wide':
+
+            458,22 Joules power/energy-cores/                                         
+
+      41,627615160 seconds time elapsed
+
+Version 13, round 18
+
+# started on Mon Feb 28 00:58:07 2022
+
+
+ Performance counter stats for 'system wide':
+
+            329,10 Joules power/energy-cores/                                         
+
+      29,945999233 seconds time elapsed
+
+Version 14, round 18
+
+# started on Mon Feb 28 00:58:47 2022
+
+
+ Performance counter stats for 'system wide':
+
+            335,72 Joules power/energy-cores/                                         
+
+      30,607483754 seconds time elapsed
+
+Version 1, round 19
+
+# started on Mon Feb 28 00:59:27 2022
+
+
+ Performance counter stats for 'system wide':
+
+            180,57 Joules power/energy-cores/                                         
+
+      16,599100750 seconds time elapsed
+
+Version 2, round 19
+
+# started on Mon Feb 28 00:59:54 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,63 Joules power/energy-cores/                                         
+
+      19,938218511 seconds time elapsed
+
+Version 4, round 19
+
+# started on Mon Feb 28 01:00:34 2022
+
+
+ Performance counter stats for 'system wide':
+
+            208,58 Joules power/energy-cores/                                         
+
+      18,989764159 seconds time elapsed
+
+Version 5, round 19
+
+# started on Mon Feb 28 01:01:03 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,62 Joules power/energy-cores/                                         
+
+      19,661283927 seconds time elapsed
+
+Version 6, round 19
+
+# started on Mon Feb 28 01:01:33 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,67 Joules power/energy-cores/                                         
+
+      18,089321846 seconds time elapsed
+
+Version 7, round 19
+
+# started on Mon Feb 28 01:02:01 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,40 Joules power/energy-cores/                                         
+
+      17,720505914 seconds time elapsed
+
+Version 8, round 19
+
+# started on Mon Feb 28 01:02:29 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,89 Joules power/energy-cores/                                         
+
+      19,663873431 seconds time elapsed
+
+Version 9, round 19
+
+# started on Mon Feb 28 01:02:58 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,44 Joules power/energy-cores/                                         
+
+      18,446806062 seconds time elapsed
+
+Version 10, round 19
+
+# started on Mon Feb 28 01:03:27 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,65 Joules power/energy-cores/                                         
+
+      19,905843621 seconds time elapsed
+
+Version 11, round 19
+
+# started on Mon Feb 28 01:03:57 2022
+
+
+ Performance counter stats for 'system wide':
+
+            211,83 Joules power/energy-cores/                                         
+
+      19,451878496 seconds time elapsed
+
+Version 12, round 19
+
+# started on Mon Feb 28 01:04:26 2022
+
+
+ Performance counter stats for 'system wide':
+
+            458,02 Joules power/energy-cores/                                         
+
+      41,613361258 seconds time elapsed
+
+Version 13, round 19
+
+# started on Mon Feb 28 01:05:18 2022
+
+
+ Performance counter stats for 'system wide':
+
+            329,06 Joules power/energy-cores/                                         
+
+      29,896399726 seconds time elapsed
+
+Version 14, round 19
+
+# started on Mon Feb 28 01:05:58 2022
+
+
+ Performance counter stats for 'system wide':
+
+            334,18 Joules power/energy-cores/                                         
+
+      30,449152859 seconds time elapsed
+
+Version 1, round 20
+
+# started on Mon Feb 28 01:06:38 2022
+
+
+ Performance counter stats for 'system wide':
+
+            179,81 Joules power/energy-cores/                                         
+
+      16,559286156 seconds time elapsed
+
+Version 2, round 20
+
+# started on Mon Feb 28 01:07:05 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,76 Joules power/energy-cores/                                         
+
+      19,939791492 seconds time elapsed
+
+Version 4, round 20
+
+# started on Mon Feb 28 01:07:45 2022
+
+
+ Performance counter stats for 'system wide':
+
+            208,81 Joules power/energy-cores/                                         
+
+      19,011370708 seconds time elapsed
+
+Version 5, round 20
+
+# started on Mon Feb 28 01:08:14 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,42 Joules power/energy-cores/                                         
+
+      19,646703600 seconds time elapsed
+
+Version 6, round 20
+
+# started on Mon Feb 28 01:08:44 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,86 Joules power/energy-cores/                                         
+
+      18,176649927 seconds time elapsed
+
+Version 7, round 20
+
+# started on Mon Feb 28 01:09:12 2022
+
+
+ Performance counter stats for 'system wide':
+
+            192,84 Joules power/energy-cores/                                         
+
+      17,687884413 seconds time elapsed
+
+Version 8, round 20
+
+# started on Mon Feb 28 01:09:40 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,57 Joules power/energy-cores/                                         
+
+      19,610602727 seconds time elapsed
+
+Version 9, round 20
+
+# started on Mon Feb 28 01:10:09 2022
+
+
+ Performance counter stats for 'system wide':
+
+            201,91 Joules power/energy-cores/                                         
+
+      18,443992226 seconds time elapsed
+
+Version 10, round 20
+
+# started on Mon Feb 28 01:10:38 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,56 Joules power/energy-cores/                                         
+
+      19,938664273 seconds time elapsed
+
+Version 11, round 20
+
+# started on Mon Feb 28 01:11:08 2022
+
+
+ Performance counter stats for 'system wide':
+
+            211,89 Joules power/energy-cores/                                         
+
+      19,389688475 seconds time elapsed
+
+Version 12, round 20
+
+# started on Mon Feb 28 01:11:37 2022
+
+
+ Performance counter stats for 'system wide':
+
+            458,46 Joules power/energy-cores/                                         
+
+      41,614807469 seconds time elapsed
+
+Version 13, round 20
+
+# started on Mon Feb 28 01:12:29 2022
+
+
+ Performance counter stats for 'system wide':
+
+            328,31 Joules power/energy-cores/                                         
+
+      29,850847401 seconds time elapsed
+
+Version 14, round 20
+
+# started on Mon Feb 28 01:13:09 2022
+
+
+ Performance counter stats for 'system wide':
+
+            335,79 Joules power/energy-cores/                                         
+
+      30,612326769 seconds time elapsed
+
+Version 1, round 21
+
+# started on Mon Feb 28 01:13:49 2022
+
+
+ Performance counter stats for 'system wide':
+
+            182,41 Joules power/energy-cores/                                         
+
+      16,788633321 seconds time elapsed
+
+Version 2, round 21
+
+# started on Mon Feb 28 01:14:16 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,43 Joules power/energy-cores/                                         
+
+      19,909599355 seconds time elapsed
+
+Version 4, round 21
+
+# started on Mon Feb 28 01:14:56 2022
+
+
+ Performance counter stats for 'system wide':
+
+            207,28 Joules power/energy-cores/                                         
+
+      18,982052316 seconds time elapsed
+
+Version 5, round 21
+
+# started on Mon Feb 28 01:15:25 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,14 Joules power/energy-cores/                                         
+
+      19,715908616 seconds time elapsed
+
+Version 6, round 21
+
+# started on Mon Feb 28 01:15:55 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,41 Joules power/energy-cores/                                         
+
+      18,116386975 seconds time elapsed
+
+Version 7, round 21
+
+# started on Mon Feb 28 01:16:23 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,19 Joules power/energy-cores/                                         
+
+      17,690591468 seconds time elapsed
+
+Version 8, round 21
+
+# started on Mon Feb 28 01:16:51 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,66 Joules power/energy-cores/                                         
+
+      19,584983956 seconds time elapsed
+
+Version 9, round 21
+
+# started on Mon Feb 28 01:17:20 2022
+
+
+ Performance counter stats for 'system wide':
+
+            201,93 Joules power/energy-cores/                                         
+
+      18,447479654 seconds time elapsed
+
+Version 10, round 21
+
+# started on Mon Feb 28 01:17:49 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,40 Joules power/energy-cores/                                         
+
+      19,896649814 seconds time elapsed
+
+Version 11, round 21
+
+# started on Mon Feb 28 01:18:19 2022
+
+
+ Performance counter stats for 'system wide':
+
+            211,95 Joules power/energy-cores/                                         
+
+      19,411402117 seconds time elapsed
+
+Version 12, round 21
+
+# started on Mon Feb 28 01:18:48 2022
+
+
+ Performance counter stats for 'system wide':
+
+            459,08 Joules power/energy-cores/                                         
+
+      41,701123927 seconds time elapsed
+
+Version 13, round 21
+
+# started on Mon Feb 28 01:19:40 2022
+
+
+ Performance counter stats for 'system wide':
+
+            328,66 Joules power/energy-cores/                                         
+
+      29,941467239 seconds time elapsed
+
+Version 14, round 21
+
+# started on Mon Feb 28 01:20:20 2022
+
+
+ Performance counter stats for 'system wide':
+
+            333,92 Joules power/energy-cores/                                         
+
+      30,445312698 seconds time elapsed
+
+Version 1, round 22
+
+# started on Mon Feb 28 01:21:00 2022
+
+
+ Performance counter stats for 'system wide':
+
+            181,91 Joules power/energy-cores/                                         
+
+      16,718943697 seconds time elapsed
+
+Version 2, round 22
+
+# started on Mon Feb 28 01:21:27 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,28 Joules power/energy-cores/                                         
+
+      19,889028704 seconds time elapsed
+
+Version 4, round 22
+
+# started on Mon Feb 28 01:22:07 2022
+
+
+ Performance counter stats for 'system wide':
+
+            207,51 Joules power/energy-cores/                                         
+
+      18,920032537 seconds time elapsed
+
+Version 5, round 22
+
+# started on Mon Feb 28 01:22:36 2022
+
+
+ Performance counter stats for 'system wide':
+
+            217,11 Joules power/energy-cores/                                         
+
+      19,799119656 seconds time elapsed
+
+Version 6, round 22
+
+# started on Mon Feb 28 01:23:06 2022
+
+
+ Performance counter stats for 'system wide':
+
+            199,38 Joules power/energy-cores/                                         
+
+      18,167975317 seconds time elapsed
+
+Version 7, round 22
+
+# started on Mon Feb 28 01:23:34 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,20 Joules power/energy-cores/                                         
+
+      17,631290153 seconds time elapsed
+
+Version 8, round 22
+
+# started on Mon Feb 28 01:24:02 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,26 Joules power/energy-cores/                                         
+
+      19,643259932 seconds time elapsed
+
+Version 9, round 22
+
+# started on Mon Feb 28 01:24:31 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,01 Joules power/energy-cores/                                         
+
+      18,528611643 seconds time elapsed
+
+Version 10, round 22
+
+# started on Mon Feb 28 01:25:00 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,81 Joules power/energy-cores/                                         
+
+      19,886457893 seconds time elapsed
+
+Version 11, round 22
+
+# started on Mon Feb 28 01:25:30 2022
+
+
+ Performance counter stats for 'system wide':
+
+            212,95 Joules power/energy-cores/                                         
+
+      19,426930365 seconds time elapsed
+
+Version 12, round 22
+
+# started on Mon Feb 28 01:25:59 2022
+
+
+ Performance counter stats for 'system wide':
+
+            457,63 Joules power/energy-cores/                                         
+
+      41,543930889 seconds time elapsed
+
+Version 13, round 22
+
+# started on Mon Feb 28 01:26:51 2022
+
+
+ Performance counter stats for 'system wide':
+
+            329,14 Joules power/energy-cores/                                         
+
+      29,954611863 seconds time elapsed
+
+Version 14, round 22
+
+# started on Mon Feb 28 01:27:31 2022
+
+
+ Performance counter stats for 'system wide':
+
+            335,14 Joules power/energy-cores/                                         
+
+      30,574464974 seconds time elapsed
+
+Version 1, round 23
+
+# started on Mon Feb 28 01:28:12 2022
+
+
+ Performance counter stats for 'system wide':
+
+            184,41 Joules power/energy-cores/                                         
+
+      16,946843544 seconds time elapsed
+
+Version 2, round 23
+
+# started on Mon Feb 28 01:28:39 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,34 Joules power/energy-cores/                                         
+
+      19,922021398 seconds time elapsed
+
+Version 4, round 23
+
+# started on Mon Feb 28 01:29:19 2022
+
+
+ Performance counter stats for 'system wide':
+
+            207,84 Joules power/energy-cores/                                         
+
+      19,019376130 seconds time elapsed
+
+Version 5, round 23
+
+# started on Mon Feb 28 01:29:48 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,38 Joules power/energy-cores/                                         
+
+      19,647596237 seconds time elapsed
+
+Version 6, round 23
+
+# started on Mon Feb 28 01:30:17 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,76 Joules power/energy-cores/                                         
+
+      18,108806538 seconds time elapsed
+
+Version 7, round 23
+
+# started on Mon Feb 28 01:30:45 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,10 Joules power/energy-cores/                                         
+
+      17,685287729 seconds time elapsed
+
+Version 8, round 23
+
+# started on Mon Feb 28 01:31:13 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,87 Joules power/energy-cores/                                         
+
+      19,634223327 seconds time elapsed
+
+Version 9, round 23
+
+# started on Mon Feb 28 01:31:43 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,13 Joules power/energy-cores/                                         
+
+      18,482269977 seconds time elapsed
+
+Version 10, round 23
+
+# started on Mon Feb 28 01:32:11 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,61 Joules power/energy-cores/                                         
+
+      19,893776358 seconds time elapsed
+
+Version 11, round 23
+
+# started on Mon Feb 28 01:32:41 2022
+
+
+ Performance counter stats for 'system wide':
+
+            211,85 Joules power/energy-cores/                                         
+
+      19,424338825 seconds time elapsed
+
+Version 12, round 23
+
+# started on Mon Feb 28 01:33:11 2022
+
+
+ Performance counter stats for 'system wide':
+
+            457,54 Joules power/energy-cores/                                         
+
+      41,586335297 seconds time elapsed
+
+Version 13, round 23
+
+# started on Mon Feb 28 01:34:02 2022
+
+
+ Performance counter stats for 'system wide':
+
+            329,40 Joules power/energy-cores/                                         
+
+      29,943279465 seconds time elapsed
+
+Version 14, round 23
+
+# started on Mon Feb 28 01:34:42 2022
+
+
+ Performance counter stats for 'system wide':
+
+            334,32 Joules power/energy-cores/                                         
+
+      30,476601143 seconds time elapsed
+
+Version 1, round 24
+
+# started on Mon Feb 28 01:35:23 2022
+
+
+ Performance counter stats for 'system wide':
+
+            178,93 Joules power/energy-cores/                                         
+
+      16,472037128 seconds time elapsed
+
+Version 2, round 24
+
+# started on Mon Feb 28 01:35:49 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,58 Joules power/energy-cores/                                         
+
+      19,920012295 seconds time elapsed
+
+Version 4, round 24
+
+# started on Mon Feb 28 01:36:29 2022
+
+
+ Performance counter stats for 'system wide':
+
+            208,68 Joules power/energy-cores/                                         
+
+      18,990247465 seconds time elapsed
+
+Version 5, round 24
+
+# started on Mon Feb 28 01:36:58 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,55 Joules power/energy-cores/                                         
+
+      19,655904920 seconds time elapsed
+
+Version 6, round 24
+
+# started on Mon Feb 28 01:37:28 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,42 Joules power/energy-cores/                                         
+
+      18,095339216 seconds time elapsed
+
+Version 7, round 24
+
+# started on Mon Feb 28 01:37:56 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,35 Joules power/energy-cores/                                         
+
+      17,683295735 seconds time elapsed
+
+Version 8, round 24
+
+# started on Mon Feb 28 01:38:24 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,37 Joules power/energy-cores/                                         
+
+      19,638276471 seconds time elapsed
+
+Version 9, round 24
+
+# started on Mon Feb 28 01:38:54 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,62 Joules power/energy-cores/                                         
+
+      18,468879612 seconds time elapsed
+
+Version 10, round 24
+
+# started on Mon Feb 28 01:39:22 2022
+
+
+ Performance counter stats for 'system wide':
+
+            217,27 Joules power/energy-cores/                                         
+
+      19,971845078 seconds time elapsed
+
+Version 11, round 24
+
+# started on Mon Feb 28 01:39:52 2022
+
+
+ Performance counter stats for 'system wide':
+
+            211,74 Joules power/energy-cores/                                         
+
+      19,450794861 seconds time elapsed
+
+Version 12, round 24
+
+# started on Mon Feb 28 01:40:22 2022
+
+
+ Performance counter stats for 'system wide':
+
+            457,38 Joules power/energy-cores/                                         
+
+      41,512472766 seconds time elapsed
+
+Version 13, round 24
+
+# started on Mon Feb 28 01:41:13 2022
+
+
+ Performance counter stats for 'system wide':
+
+            328,56 Joules power/energy-cores/                                         
+
+      29,899786735 seconds time elapsed
+
+Version 14, round 24
+
+# started on Mon Feb 28 01:41:53 2022
+
+
+ Performance counter stats for 'system wide':
+
+            335,40 Joules power/energy-cores/                                         
+
+      30,627453620 seconds time elapsed
+
+Version 1, round 25
+
+# started on Mon Feb 28 01:42:34 2022
+
+
+ Performance counter stats for 'system wide':
+
+            182,48 Joules power/energy-cores/                                         
+
+      16,778389830 seconds time elapsed
+
+Version 2, round 25
+
+# started on Mon Feb 28 01:43:01 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,81 Joules power/energy-cores/                                         
+
+      19,932353260 seconds time elapsed
+
+Version 4, round 25
+
+# started on Mon Feb 28 01:43:41 2022
+
+
+ Performance counter stats for 'system wide':
+
+            208,04 Joules power/energy-cores/                                         
+
+      18,974655241 seconds time elapsed
+
+Version 5, round 25
+
+# started on Mon Feb 28 01:44:10 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,98 Joules power/energy-cores/                                         
+
+      19,757601352 seconds time elapsed
+
+Version 6, round 25
+
+# started on Mon Feb 28 01:44:39 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,87 Joules power/energy-cores/                                         
+
+      18,107228335 seconds time elapsed
+
+Version 7, round 25
+
+# started on Mon Feb 28 01:45:07 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,72 Joules power/energy-cores/                                         
+
+      17,707720677 seconds time elapsed
+
+Version 8, round 25
+
+# started on Mon Feb 28 01:45:35 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,62 Joules power/energy-cores/                                         
+
+      19,597502981 seconds time elapsed
+
+Version 9, round 25
+
+# started on Mon Feb 28 01:46:05 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,18 Joules power/energy-cores/                                         
+
+      18,439409156 seconds time elapsed
+
+Version 10, round 25
+
+# started on Mon Feb 28 01:46:33 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,94 Joules power/energy-cores/                                         
+
+      19,908261720 seconds time elapsed
+
+Version 11, round 25
+
+# started on Mon Feb 28 01:47:03 2022
+
+
+ Performance counter stats for 'system wide':
+
+            212,10 Joules power/energy-cores/                                         
+
+      19,416848587 seconds time elapsed
+
+Version 12, round 25
+
+# started on Mon Feb 28 01:47:33 2022
+
+
+ Performance counter stats for 'system wide':
+
+            458,49 Joules power/energy-cores/                                         
+
+      41,605722432 seconds time elapsed
+
+Version 13, round 25
+
+# started on Mon Feb 28 01:48:24 2022
+
+
+ Performance counter stats for 'system wide':
+
+            329,48 Joules power/energy-cores/                                         
+
+      29,957484048 seconds time elapsed
+
+Version 14, round 25
+
+# started on Mon Feb 28 01:49:04 2022
+
+
+ Performance counter stats for 'system wide':
+
+            333,86 Joules power/energy-cores/                                         
+
+      30,478185088 seconds time elapsed
+
+Version 1, round 26
+
+# started on Mon Feb 28 01:49:45 2022
+
+
+ Performance counter stats for 'system wide':
+
+            180,00 Joules power/energy-cores/                                         
+
+      16,553520034 seconds time elapsed
+
+Version 2, round 26
+
+# started on Mon Feb 28 01:50:11 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,68 Joules power/energy-cores/                                         
+
+      19,914195898 seconds time elapsed
+
+Version 4, round 26
+
+# started on Mon Feb 28 01:50:51 2022
+
+
+ Performance counter stats for 'system wide':
+
+            207,58 Joules power/energy-cores/                                         
+
+      18,941029631 seconds time elapsed
+
+Version 5, round 26
+
+# started on Mon Feb 28 01:51:20 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,51 Joules power/energy-cores/                                         
+
+      19,755082101 seconds time elapsed
+
+Version 6, round 26
+
+# started on Mon Feb 28 01:51:50 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,38 Joules power/energy-cores/                                         
+
+      18,108572165 seconds time elapsed
+
+Version 7, round 26
+
+# started on Mon Feb 28 01:52:18 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,47 Joules power/energy-cores/                                         
+
+      17,637222481 seconds time elapsed
+
+Version 8, round 26
+
+# started on Mon Feb 28 01:52:46 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,89 Joules power/energy-cores/                                         
+
+      19,636210198 seconds time elapsed
+
+Version 9, round 26
+
+# started on Mon Feb 28 01:53:16 2022
+
+
+ Performance counter stats for 'system wide':
+
+            201,92 Joules power/energy-cores/                                         
+
+      18,437293637 seconds time elapsed
+
+Version 10, round 26
+
+# started on Mon Feb 28 01:53:44 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,70 Joules power/energy-cores/                                         
+
+      19,911593490 seconds time elapsed
+
+Version 11, round 26
+
+# started on Mon Feb 28 01:54:14 2022
+
+
+ Performance counter stats for 'system wide':
+
+            211,76 Joules power/energy-cores/                                         
+
+      19,418632195 seconds time elapsed
+
+Version 12, round 26
+
+# started on Mon Feb 28 01:54:44 2022
+
+
+ Performance counter stats for 'system wide':
+
+            457,78 Joules power/energy-cores/                                         
+
+      41,581540005 seconds time elapsed
+
+Version 13, round 26
+
+# started on Mon Feb 28 01:55:35 2022
+
+
+ Performance counter stats for 'system wide':
+
+            330,44 Joules power/energy-cores/                                         
+
+      30,021463591 seconds time elapsed
+
+Version 14, round 26
+
+# started on Mon Feb 28 01:56:15 2022
+
+
+ Performance counter stats for 'system wide':
+
+            334,59 Joules power/energy-cores/                                         
+
+      30,503885379 seconds time elapsed
+
+Version 1, round 27
+
+# started on Mon Feb 28 01:56:56 2022
+
+
+ Performance counter stats for 'system wide':
+
+            181,53 Joules power/energy-cores/                                         
+
+      16,697069159 seconds time elapsed
+
+Version 2, round 27
+
+# started on Mon Feb 28 01:57:23 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,86 Joules power/energy-cores/                                         
+
+      19,931260065 seconds time elapsed
+
+Version 4, round 27
+
+# started on Mon Feb 28 01:58:03 2022
+
+
+ Performance counter stats for 'system wide':
+
+            208,43 Joules power/energy-cores/                                         
+
+      18,944792624 seconds time elapsed
+
+Version 5, round 27
+
+# started on Mon Feb 28 01:58:31 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,18 Joules power/energy-cores/                                         
+
+      19,665312205 seconds time elapsed
+
+Version 6, round 27
+
+# started on Mon Feb 28 01:59:01 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,45 Joules power/energy-cores/                                         
+
+      18,115563584 seconds time elapsed
+
+Version 7, round 27
+
+# started on Mon Feb 28 01:59:29 2022
+
+
+ Performance counter stats for 'system wide':
+
+            192,61 Joules power/energy-cores/                                         
+
+      17,661304008 seconds time elapsed
+
+Version 8, round 27
+
+# started on Mon Feb 28 01:59:57 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,33 Joules power/energy-cores/                                         
+
+      19,645707604 seconds time elapsed
+
+Version 9, round 27
+
+# started on Mon Feb 28 02:00:27 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,98 Joules power/energy-cores/                                         
+
+      18,489106780 seconds time elapsed
+
+Version 10, round 27
+
+# started on Mon Feb 28 02:00:55 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,36 Joules power/energy-cores/                                         
+
+      19,868572554 seconds time elapsed
+
+Version 11, round 27
+
+# started on Mon Feb 28 02:01:25 2022
+
+
+ Performance counter stats for 'system wide':
+
+            211,78 Joules power/energy-cores/                                         
+
+      19,418886001 seconds time elapsed
+
+Version 12, round 27
+
+# started on Mon Feb 28 02:01:55 2022
+
+
+ Performance counter stats for 'system wide':
+
+            458,49 Joules power/energy-cores/                                         
+
+      41,625076093 seconds time elapsed
+
+Version 13, round 27
+
+# started on Mon Feb 28 02:02:46 2022
+
+
+ Performance counter stats for 'system wide':
+
+            330,31 Joules power/energy-cores/                                         
+
+      30,057718958 seconds time elapsed
+
+Version 14, round 27
+
+# started on Mon Feb 28 02:03:26 2022
+
+
+ Performance counter stats for 'system wide':
+
+            376,48 Joules power/energy-cores/                                         
+
+      34,404138203 seconds time elapsed
+
+Version 1, round 28
+
+# started on Mon Feb 28 02:04:11 2022
+
+
+ Performance counter stats for 'system wide':
+
+            179,49 Joules power/energy-cores/                                         
+
+      16,531415283 seconds time elapsed
+
+Version 2, round 28
+
+# started on Mon Feb 28 02:04:37 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,66 Joules power/energy-cores/                                         
+
+      19,901601417 seconds time elapsed
+
+Version 4, round 28
+
+# started on Mon Feb 28 02:05:17 2022
+
+
+ Performance counter stats for 'system wide':
+
+            207,94 Joules power/energy-cores/                                         
+
+      18,965602820 seconds time elapsed
+
+Version 5, round 28
+
+# started on Mon Feb 28 02:05:46 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,95 Joules power/energy-cores/                                         
+
+      19,772192486 seconds time elapsed
+
+Version 6, round 28
+
+# started on Mon Feb 28 02:06:16 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,47 Joules power/energy-cores/                                         
+
+      18,101433140 seconds time elapsed
+
+Version 7, round 28
+
+# started on Mon Feb 28 02:06:44 2022
+
+
+ Performance counter stats for 'system wide':
+
+            192,88 Joules power/energy-cores/                                         
+
+      17,632332556 seconds time elapsed
+
+Version 8, round 28
+
+# started on Mon Feb 28 02:07:12 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,90 Joules power/energy-cores/                                         
+
+      19,644850549 seconds time elapsed
+
+Version 9, round 28
+
+# started on Mon Feb 28 02:07:42 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,45 Joules power/energy-cores/                                         
+
+      18,421024895 seconds time elapsed
+
+Version 10, round 28
+
+# started on Mon Feb 28 02:08:10 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,77 Joules power/energy-cores/                                         
+
+      19,864612734 seconds time elapsed
+
+Version 11, round 28
+
+# started on Mon Feb 28 02:08:40 2022
+
+
+ Performance counter stats for 'system wide':
+
+            212,52 Joules power/energy-cores/                                         
+
+      19,413984526 seconds time elapsed
+
+Version 12, round 28
+
+# started on Mon Feb 28 02:09:09 2022
+
+
+ Performance counter stats for 'system wide':
+
+            458,13 Joules power/energy-cores/                                         
+
+      41,612873678 seconds time elapsed
+
+Version 13, round 28
+
+# started on Mon Feb 28 02:10:01 2022
+
+
+ Performance counter stats for 'system wide':
+
+            328,96 Joules power/energy-cores/                                         
+
+      29,887455865 seconds time elapsed
+
+Version 14, round 28
+
+# started on Mon Feb 28 02:10:41 2022
+
+
+ Performance counter stats for 'system wide':
+
+            334,46 Joules power/energy-cores/                                         
+
+      30,500166998 seconds time elapsed
+
+Version 1, round 29
+
+# started on Mon Feb 28 02:11:22 2022
+
+
+ Performance counter stats for 'system wide':
+
+            186,55 Joules power/energy-cores/                                         
+
+      17,148157450 seconds time elapsed
+
+Version 2, round 29
+
+# started on Mon Feb 28 02:11:49 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,78 Joules power/energy-cores/                                         
+
+      19,880840419 seconds time elapsed
+
+Version 4, round 29
+
+# started on Mon Feb 28 02:12:29 2022
+
+
+ Performance counter stats for 'system wide':
+
+            208,33 Joules power/energy-cores/                                         
+
+      19,016079743 seconds time elapsed
+
+Version 5, round 29
+
+# started on Mon Feb 28 02:12:58 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,74 Joules power/energy-cores/                                         
+
+      19,695871590 seconds time elapsed
+
+Version 6, round 29
+
+# started on Mon Feb 28 02:13:27 2022
+
+
+ Performance counter stats for 'system wide':
+
+            198,60 Joules power/energy-cores/                                         
+
+      18,105326310 seconds time elapsed
+
+Version 7, round 29
+
+# started on Mon Feb 28 02:13:56 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,17 Joules power/energy-cores/                                         
+
+      17,651840545 seconds time elapsed
+
+Version 8, round 29
+
+# started on Mon Feb 28 02:14:23 2022
+
+
+ Performance counter stats for 'system wide':
+
+            214,27 Joules power/energy-cores/                                         
+
+      19,588905143 seconds time elapsed
+
+Version 9, round 29
+
+# started on Mon Feb 28 02:14:53 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,45 Joules power/energy-cores/                                         
+
+      18,483894146 seconds time elapsed
+
+Version 10, round 29
+
+# started on Mon Feb 28 02:15:21 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,75 Joules power/energy-cores/                                         
+
+      19,899841591 seconds time elapsed
+
+Version 11, round 29
+
+# started on Mon Feb 28 02:15:51 2022
+
+
+ Performance counter stats for 'system wide':
+
+            212,09 Joules power/energy-cores/                                         
+
+      19,408732316 seconds time elapsed
+
+Version 12, round 29
+
+# started on Mon Feb 28 02:16:21 2022
+
+
+ Performance counter stats for 'system wide':
+
+            458,65 Joules power/energy-cores/                                         
+
+      41,660796300 seconds time elapsed
+
+Version 13, round 29
+
+# started on Mon Feb 28 02:17:13 2022
+
+
+ Performance counter stats for 'system wide':
+
+            328,83 Joules power/energy-cores/                                         
+
+      29,909499052 seconds time elapsed
+
+Version 14, round 29
+
+# started on Mon Feb 28 02:17:52 2022
+
+
+ Performance counter stats for 'system wide':
+
+            334,63 Joules power/energy-cores/                                         
+
+      30,532025942 seconds time elapsed
+
+Version 1, round 30
+
+# started on Mon Feb 28 02:18:33 2022
+
+
+ Performance counter stats for 'system wide':
+
+            183,41 Joules power/energy-cores/                                         
+
+      16,860857211 seconds time elapsed
+
+Version 2, round 30
+
+# started on Mon Feb 28 02:19:00 2022
+
+
+ Performance counter stats for 'system wide':
+
+            218,44 Joules power/energy-cores/                                         
+
+      19,911763092 seconds time elapsed
+
+Version 4, round 30
+
+# started on Mon Feb 28 02:19:40 2022
+
+
+ Performance counter stats for 'system wide':
+
+            207,77 Joules power/energy-cores/                                         
+
+      19,011671106 seconds time elapsed
+
+Version 5, round 30
+
+# started on Mon Feb 28 02:20:09 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,20 Joules power/energy-cores/                                         
+
+      19,619702165 seconds time elapsed
+
+Version 6, round 30
+
+# started on Mon Feb 28 02:20:39 2022
+
+
+ Performance counter stats for 'system wide':
+
+            199,06 Joules power/energy-cores/                                         
+
+      18,117368536 seconds time elapsed
+
+Version 7, round 30
+
+# started on Mon Feb 28 02:21:07 2022
+
+
+ Performance counter stats for 'system wide':
+
+            193,29 Joules power/energy-cores/                                         
+
+      17,692801924 seconds time elapsed
+
+Version 8, round 30
+
+# started on Mon Feb 28 02:21:34 2022
+
+
+ Performance counter stats for 'system wide':
+
+            215,21 Joules power/energy-cores/                                         
+
+      19,647975820 seconds time elapsed
+
+Version 9, round 30
+
+# started on Mon Feb 28 02:22:04 2022
+
+
+ Performance counter stats for 'system wide':
+
+            202,03 Joules power/energy-cores/                                         
+
+      18,460230839 seconds time elapsed
+
+Version 10, round 30
+
+# started on Mon Feb 28 02:22:33 2022
+
+
+ Performance counter stats for 'system wide':
+
+            216,30 Joules power/energy-cores/                                         
+
+      19,882790064 seconds time elapsed
+
+Version 11, round 30
+
+# started on Mon Feb 28 02:23:03 2022
+
+
+ Performance counter stats for 'system wide':
+
+            212,58 Joules power/energy-cores/                                         
+
+      19,481328097 seconds time elapsed
+
+Version 12, round 30
+
+# started on Mon Feb 28 02:23:32 2022
+
+
+ Performance counter stats for 'system wide':
+
+            458,60 Joules power/energy-cores/                                         
+
+      41,595914923 seconds time elapsed
+
+Version 13, round 30
+
+# started on Mon Feb 28 02:24:24 2022
+
+
+ Performance counter stats for 'system wide':
+
+            328,71 Joules power/energy-cores/                                         
+
+      29,906441074 seconds time elapsed
+
+Version 14, round 30
+
+# started on Mon Feb 28 02:25:04 2022
+
+
+ Performance counter stats for 'system wide':
+
+            335,80 Joules power/energy-cores/                                         
+
+      30,610265749 seconds time elapsed
+

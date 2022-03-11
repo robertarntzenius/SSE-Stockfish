@@ -1,0 +1,31 @@
+ set timeout 10
+ set version [lindex $argv 0]
+ set nodes [lindex $argv 1]
+
+ send_user "$nodes $version"
+
+ spawn ./stockfish_$version
+
+ send "uci\n"
+ expect "uciok"
+
+ send "ucinewgame\n"
+ send "position startpos\n"
+ send "go nodes $nodes\n"
+ expect "bestmove"
+
+ send "position startpos moves e2e4 e7e6\n"
+ send "go nodes $nodes\n"
+ expect "bestmove"
+
+ send "ucinewgame\n"
+ send "position startpos\n"
+ send "go nodes $nodes\n"
+ expect "bestmove"
+
+ send "position startpos moves e2e4 e7e6\n"
+ send "go nodes $nodes\n"
+ expect "bestmove"
+
+ send "quit\n"
+ expect eof
